@@ -4,7 +4,8 @@ function add(a, b) {
 
 add(9824, 777); 
 
-function multiply(x) {
-    console.log(x*x);
+function multiply(c, d) {
+    console.log(c*d);
 }
 
+multiply(36325, 10601);
